@@ -17,7 +17,9 @@
         "sonata-project/jquery-bundle": "dev-master"
     },
     "autoload": {
-        "psr-0": { "Lazyants\\DynatreeBundle": "" }
+        "psr-0": {
+            "Lazyants\\DynatreeBundle": ""
+        }
     },
     "target-dir": "Lazyants/DynatreeBundle"
 }
