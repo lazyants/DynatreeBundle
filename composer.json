@@ -3,7 +3,7 @@
     "type": "symfony-bundle",
     "description": "Integration of jquery.dynatree.js in Symfony 2",
     "keywords": ["symfony", "dynatree", "js", "tree"],
-    "homepage": "https://github.com/lazyants/LazyantsDynatreeBundle",
+    "homepage": "https://github.com/lazyants/DynatreeBundle",
     "license": "MIT",
     "authors": [
         {
