@@ -1,5 +1,5 @@
-Add the Dynatree Jquery plugin inside the Symfony2 framework.
-
+Add the Dynatree jQuery plugin inside the Symfony2 framework.
+(https://code.google.com/p/dynatree/)
 
 
 
